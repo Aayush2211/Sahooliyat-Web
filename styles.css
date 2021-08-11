@@ -79,5 +79,14 @@ span{
     font-family: 'KoHo', sans-serif;
 }
 
+@media(min-width:100px) and (max-width:430px){
+    #floatingMessage{
+        height: 100px;
+        /* text-align: center; */
+        
+    }
+}
+
+
 &copy;
 
